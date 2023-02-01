@@ -1,0 +1,23 @@
+Ciao a tutti,
+esercizio di oggi: calcolo del prezzo del biglietto del treno
+nome repo: js-biglietto-treno-form
+Descrizione:
+ Scrivere un programma che permetta all’utente di:
+inserire in un input il numero di km da percorrere
+selezionare da una select il tipo di sconto da applicare (3 scelte: sconto minorenne, sconto over 65, nessuno sconto)
+Al click sul pulsante calcolare il prezzo del biglietto:
+il prezzo del biglietto è definito in base ai km (0.21 € al km)
+va applicato uno sconto del 20% per i minorenni
+va applicato uno sconto del 40% per gli over 65.
+MILESTONE 1:
+Iniziamo implementando il programma senza alcuna estetica: usando esclusivamente un input una select e un bottone (non stilizzati), realizziamo le specifiche scritte sopra.
+La risposta finale (o output) sarà anch’essa da scrivere in console.
+MILESTONE 2:
+Solo una volta che il milestone 1 sarà completo e funzionante
+Implementiamo bene la UI della pagina in modo da avere in alto i campi da compilare e in basso avere il riepilogo del calcolo effettuato
+Il recap dei dati e l’output del prezzo finale, andranno quindi stampati in pagina (il prezzo dovrà essere formattato con massimo due decimali, per indicare i centesimi sul prezzo, come ieri).
+Sulla parte grafica avete massima libertà di espressione!!!
+Nota: Se non vi sentite particolarmente creativi, vi allego lo screenshot che potrebbe essere un’implementazione da seguire per il secondo milestone. Potete scegliere di implementare una soluzione completamente diversa oppure simile, ma in ogni caso cercate di farla vostra.
+Buon lavoro!
+
+
